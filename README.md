@@ -22,6 +22,11 @@ fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)
 
 PS：滚动鼠标滚轮，可以放大或缩小球体
 
+![image.png](https://i.loli.net/2019/12/27/cWoeDxa8kFhtCAE.png)
+
+![image.png](https://i.loli.net/2019/12/27/eKy5VE1FDGN7IYT.png)
+
+![image.png](https://i.loli.net/2019/12/27/OFR6UWeZMK7z5qh.png)
 ## 个性化设置
 
 1. **修改号码和名单**  
