@@ -9,7 +9,8 @@ fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)
     首先得有个网站，如果没有，可以使用Github.io博客，建站方法可参考[这篇文章](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)，如果建站只是为了抽奖，能成功打开`你的Github账号名.github.io`，五分钟就搞定~即可进入下一步；
 
 2. 增加一个页面
-即在`你的Github账号名.github.io`网站中增加一个页面，得到`你的Github账号名.github.io/lottery`。具体方法参考[这篇文章](http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/)
+
+    即在`你的Github账号名.github.io`网站中增加一个页面，得到`你的Github账号名.github.io/lottery`。具体方法参考[这篇文章](http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/)
 
 ## 抽奖流程：
 
