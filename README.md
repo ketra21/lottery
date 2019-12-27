@@ -1,5 +1,5 @@
 # 年会抽奖程序
-fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)
+fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)  
 这个github地址功能更多https://github.com/moshang-xc/lottery[](https://github.com/moshang-xc/lottery)
 [demo](https://ketra21.github.io/lottery/)
 
@@ -16,9 +16,10 @@ PS：滚动鼠标滚轮，可以放大或缩小球体
 
 ## 个性化设置
 
-1. **修改号码和名单**
+1. **修改号码和名单**  
 在'js/member.js'文件内，可修改编号和名称。
-2. **修改抽奖人数和默认值列表**
+
+2. **修改抽奖人数和默认值列表**  
 默认抽奖人数为【30，10，5，2，1】，默认值为30，可以在index.html中修改
 
 ```
