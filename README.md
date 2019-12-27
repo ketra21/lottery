@@ -1,6 +1,6 @@
 # 年会抽奖程序
-fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)  
-这个github地址功能更多https://github.com/moshang-xc/lottery[](https://github.com/moshang-xc/lottery)
+fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)    
+这个[github地址](https://github.com/moshang-xc/lottery)  
 [demo](https://ketra21.github.io/lottery/)
 
 
