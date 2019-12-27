@@ -1,9 +1,14 @@
 # 年会抽奖程序
-fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)    
-这个[github地址](https://github.com/moshang-xc/lottery)  
+fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)   
+
 [demo](https://ketra21.github.io/lottery/)
 
+## 使用办法
+1. 建一个网站
 
+首先得有个网站，如果没有，可以使用Github.io，建站方法可参考[这里](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B),如果建站只是为了抽奖，能成功打开`你的Github账号名.github.io`即可进入下一步；
+2. 增加一个页面
+即在`你的Github账号名.github.io`网站中增加一个页面，得到`你的Github账号名.github.io/lottery`。具体方案参考[这里](http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/)
 
 ## 抽奖流程：
 
@@ -36,3 +41,6 @@ PS：滚动鼠标滚轮，可以放大或缩小球体
 
 3. **修改奖项**
 待续
+
+
+这个[github地址](https://github.com/moshang-xc/lottery)  看着更炫酷，功能更多，但我还没试过。
